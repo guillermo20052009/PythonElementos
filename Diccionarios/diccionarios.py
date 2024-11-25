@@ -21,3 +21,4 @@ for valor in alien_stats.values():
     print(valor)
 for valor in set(alien_stats.values()):
     print(valor)
+
